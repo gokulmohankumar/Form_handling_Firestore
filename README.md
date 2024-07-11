@@ -28,13 +28,13 @@ To run this project locally, follow these steps:
 
 2. **Install dependencies:**
 Install dependencies required for the project:
-  ```bash
+    ```bash
   npm install
-```
+  ```
 
 3. **Set Up Firebase Configuration:**
 Create a .env file in the root directory and add your Firebase configuration.<bt> Replace your-api-key, your-auth-domain, and other placeholders with your actual Firebase project credentials:<br>
-```bash
+     ```bash
 VITE_FIREBASE_KEY=your-api-key<br>
 VITE_AUTH_DOMAIN=your-auth-domain<br>
 VITE_DATABASE_URL=your-database-url<br>
