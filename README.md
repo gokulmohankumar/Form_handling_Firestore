@@ -26,14 +26,14 @@ To run this project locally, follow these steps:
    cd Formhandling
    ```
 
-2. **Install dependencies:**
+2. **Install dependencies:**<br>
 Install dependencies required for the project:
     ```bash
     npm install
     ```
 
-3. **Set Up Firebase Configuration:**
-Create a .env file in the root directory and add your Firebase configuration.<bt> Replace your-api-key, your-auth-domain, and other placeholders with your actual Firebase project credentials:<br>
+3. **Set Up Firebase Configuration:**<br>
+Create a .env file in the root directory and add your Firebase configuration.<br> Replace your-api-key, your-auth-domain, and other placeholders with your actual Firebase project credentials:<br>
     ```bash
       VITE_FIREBASE_KEY=your-api-key
       VITE_AUTH_DOMAIN=your-auth-domain
@@ -43,7 +43,7 @@ Create a .env file in the root directory and add your Firebase configuration.<bt
       VITE_MESSAGING_SENDER_ID=your-messaging-sender-id
       VITE_FIREBASE_APP_ID=your-app-id
    ```
-4. **Start the Development Server:**
+4. **Start the Development Server:**<br>
 Run the following command to start the development server:
    ```bash
       npm run dev
