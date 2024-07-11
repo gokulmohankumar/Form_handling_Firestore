@@ -35,16 +35,16 @@ Install dependencies required for the project:
 3. **Set Up Firebase Configuration:**
 Create a .env file in the root directory and add your Firebase configuration.<bt> Replace your-api-key, your-auth-domain, and other placeholders with your actual Firebase project credentials:<br>
     ```bash
-      VITE_FIREBASE_KEY=your-api-key<br>
-      VITE_AUTH_DOMAIN=your-auth-domain<br>
-      VITE_DATABASE_URL=your-database-url<br>
-      VITE_PROJECT_ID=your-project-id<br>
-      VITE_STORAGE_BUCKET=your-storage-bucket<br>
-      VITE_MESSAGING_SENDER_ID=your-messaging-sender-id<br>
-      VITE_FIREBASE_APP_ID=your-app-id<br>
+      VITE_FIREBASE_KEY=your-api-key
+      VITE_AUTH_DOMAIN=your-auth-domain
+      VITE_DATABASE_URL=your-database-url
+      VITE_PROJECT_ID=your-project-id
+      VITE_STORAGE_BUCKET=your-storage-bucket
+      VITE_MESSAGING_SENDER_ID=your-messaging-sender-id
+      VITE_FIREBASE_APP_ID=your-app-id
    ```
 4. **Start the Development Server:**
 Run the following command to start the development server:
    ```bash
-npm run dev
+      npm run dev
    ```
