@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/gokulmohankumar/Form_handling_Firestore.git
    cd formhandling
 2. Install Dependencies:
 
@@ -30,7 +30,7 @@ Install dependencies required for the project:
 
 ```bash
 npm install
-
+```
 3.Set Up Firebase Configuration
 Create a .env file in the root directory and add your Firebase configuration. Replace your-api-key, your-auth-domain, and other placeholders with your actual Firebase project credentials:
 
