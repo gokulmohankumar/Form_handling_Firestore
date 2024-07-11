@@ -2,6 +2,8 @@
 
 This repository contains a simple React application for handling form submissions using Firebase Firestore for storage.
 
+## Live: [click here](https://loginformreact-a6a32.web.app)
+<br>
 ## Features
 
 - Allows users to submit their name, email, contact number, and a message.
