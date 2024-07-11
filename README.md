@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/gokulmohankumar/Form_handling_Firestore.git
-   cd formhandling
+   cd Formhandling
    ```
 
 2. **Install dependencies:**
